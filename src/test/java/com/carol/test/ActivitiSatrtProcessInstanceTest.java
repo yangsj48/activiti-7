@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @program:activiti01
+ * @program:activiti
  * @description:流程实例启动 测试类
  * @author: carol
  * @date 2020/9/30 13:28

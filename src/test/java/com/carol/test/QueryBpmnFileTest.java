@@ -10,7 +10,7 @@ import org.apache.commons.io.IOUtils;
 import java.io.*;
 
 /**
- * @program:activiti01
+ * @program:activiti
  * @description:获取资源文件 从act_ge_bytearray表中获取bpmn，png文件， 并回写到本地
  * 应用场景： 查看流程的具体步骤
  * 技术方案：

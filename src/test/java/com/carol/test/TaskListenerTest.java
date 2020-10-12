@@ -4,7 +4,7 @@ import org.activiti.engine.delegate.DelegateTask;
 import org.activiti.engine.delegate.TaskListener;
 
 /**
- * @program:activiti01
+ * @program:activiti
  * @description:监听器实现类
  * @author: carol
  * @date 2020/10/12 9:50

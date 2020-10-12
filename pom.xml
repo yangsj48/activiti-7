@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.carol.activiti</groupId>
-    <artifactId>activiti01</artifactId>
+    <artifactId>activiti</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
         <slf4j.version>1.6.6</slf4j.version>

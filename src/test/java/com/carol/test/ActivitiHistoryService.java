@@ -10,7 +10,7 @@ import org.activiti.engine.history.HistoricTaskInstance;
 import java.util.List;
 
 /**
- * @program:activiti01
+ * @program:activiti
  * @description:HistoryService act_hi_*相关表的操作 历史信息查询
  * @author: carol
  * @date 2020/10/9 11:24

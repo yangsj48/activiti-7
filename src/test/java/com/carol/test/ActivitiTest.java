@@ -4,7 +4,7 @@ import org.activiti.engine.*;
 import org.junit.Test;
 
 /**
- * @program:activiti01
+ * @program:activiti
  * @description:Activiti 测试类 测试Activiti所需要25张表的生成
  * @author: carol
  * @date 2020/9/29 13:41

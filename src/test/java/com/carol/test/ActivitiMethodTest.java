@@ -8,7 +8,7 @@ import org.activiti.engine.TaskService;
 import org.junit.Test;
 
 /**
- * @program:activiti01
+ * @program:activiti
  * @description:测试类
  * @author: carol
  * @date 2020/10/10 14:34

@@ -6,7 +6,7 @@ import org.activiti.engine.RepositoryService;
 import org.activiti.engine.repository.Deployment;
 
 /**
- * @program:activiti01
+ * @program:activiti
  * @description:流程定义删除
  * @author: carol
  * act_re_deployment  部署信息

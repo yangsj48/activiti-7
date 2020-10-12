@@ -8,7 +8,7 @@ import org.activiti.engine.task.Task;
 import java.util.List;
 
 /**
- * @program:activiti01
+ * @program:activiti
  * @description:当前用户任务列表查询 测试类
  * @author: carol
  * @date 2020/9/30 13:59

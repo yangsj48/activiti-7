@@ -6,7 +6,7 @@ import org.activiti.engine.RuntimeService;
 import org.activiti.engine.runtime.ProcessInstance;
 
 /**
- * @program:activiti01
+ * @program:activiti
  * @description:流程实例的挂起或激活
  * @author: carol
  * @date 2020/10/9 14:47

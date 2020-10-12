@@ -1,7 +1,7 @@
 package com.carol.activiti.advanced;
 
 /**
- * @program:activiti01
+ * @program:activiti
  * @description:个人任务
  * @author: carol
  * @date 2020/10/9 16:28

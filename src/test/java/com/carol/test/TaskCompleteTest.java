@@ -7,7 +7,7 @@ import org.activiti.engine.TaskService;
 import org.activiti.engine.task.Task;
 
 /**
- * @program:activiti01
+ * @program:activiti
  * @description:任务处理
  * @author: carol
  * @date 2020/10/9 13:23

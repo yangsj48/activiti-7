@@ -10,7 +10,7 @@ import org.activiti.engine.runtime.ProcessInstance;
 import java.util.Map;
 import java.util.HashMap;
 /**
- * @program:activiti01
+ * @program:activiti
  * @description:activiti 流程定义 部署测试
  * @author: carol
  * @date 2020/9/30 11:20
