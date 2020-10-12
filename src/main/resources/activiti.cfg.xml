@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--suppress SpringFacetInspection -->
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--数据源配置(也可以直接放在 ProcessEngine配置对象中,建议采用两者分离的配置方式)-->
+    <bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource ">
+        <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
+        <property name="url" value="jdbc:mysql://localhost:3306/activiti?characterEncoding=utf8" />
+        <property name="username" value="admin"/>
+        <property name="password" value="admino4o8"/>
+    </bean>
+
+    <!--activiti单独运行的ProcessEngine配置对象,使用单独启用的方式
+        默认情况下， bean id 为'processEngineConfiguration'
+    -->
+    <bean id="processEngineConfiguration" class="org.activiti.engine.impl.cfg.StandaloneProcessEngineConfiguration">
+        <!--采用数据源-->
+        <property name="dataSource" ref="dataSource"/>
+
+        <!--是否生成表机构-->
+        <property name="databaseSchemaUpdate" value="true"/>
+
+    </bean>
+
+    <!--数据源配置放置在配置对象中-->
+   <!-- <bean id="processEngineConfiguration01" class="org.activiti.engine.impl.cfg.StandaloneProcessEngineConfiguration">
+        &lt;!&ndash;数据源配置&ndash;&gt;
+        <property name="jdbcDriver" value="com.mysql.jdbc.Driver"/>
+        <property name="jdbcUrl" value="jdbc:mysql://localhost:3306/activiti?characterEncoding=utf8" />
+        <property name="jdbcUsername" value="admin"/>
+        <property name="jdbcPassword" value="admino4o8"/>
+
+        &lt;!&ndash;是否生成表机构&ndash;&gt;
+        <property name="databaseSchemaUpdate" value="true"/>
+
+    </bean>-->
+
+
+
+
+</beans>

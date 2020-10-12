@@ -1,0 +1,30 @@
+2020-09-30 13:14:20 [ main:0 ] - [ INFO ] Initializing process engine using configuration 'file:/E:/gitDemo/activiti01/target/classes/activiti.cfg.xml'
+2020-09-30 13:14:20 [ main:13 ] - [ INFO ] initializing process engine for resource file:/E:/gitDemo/activiti01/target/classes/activiti.cfg.xml
+2020-09-30 13:14:21 [ main:1632 ] - [ INFO ] {dataSource-1} inited
+2020-09-30 13:14:24 [ main:4576 ] - [ INFO ] Activiti 5 compatibility handler implementation not found or error during instantiation : org.activiti.compatibility.DefaultActiviti5CompatibilityHandler. Activiti 5 backwards compatibility disabled.
+2020-09-30 13:14:25 [ main:4693 ] - [ INFO ] ProcessEngine default created
+2020-09-30 13:14:25 [ main:4705 ] - [ INFO ] initialised process engine default
+2020-09-30 13:43:21 [ main:0 ] - [ INFO ] Initializing process engine using configuration 'file:/E:/gitDemo/activiti01/target/classes/activiti.cfg.xml'
+2020-09-30 13:43:21 [ main:5 ] - [ INFO ] initializing process engine for resource file:/E:/gitDemo/activiti01/target/classes/activiti.cfg.xml
+2020-09-30 13:43:22 [ main:870 ] - [ INFO ] {dataSource-1} inited
+2020-09-30 13:43:25 [ main:3312 ] - [ INFO ] Activiti 5 compatibility handler implementation not found or error during instantiation : org.activiti.compatibility.DefaultActiviti5CompatibilityHandler. Activiti 5 backwards compatibility disabled.
+2020-09-30 13:43:25 [ main:3394 ] - [ INFO ] ProcessEngine default created
+2020-09-30 13:43:25 [ main:3403 ] - [ INFO ] initialised process engine default
+2020-09-30 14:06:44 [ main:0 ] - [ INFO ] Initializing process engine using configuration 'file:/E:/gitDemo/activiti01/target/classes/activiti.cfg.xml'
+2020-09-30 14:06:44 [ main:4 ] - [ INFO ] initializing process engine for resource file:/E:/gitDemo/activiti01/target/classes/activiti.cfg.xml
+2020-09-30 14:06:45 [ main:872 ] - [ INFO ] {dataSource-1} inited
+2020-09-30 14:06:48 [ main:3859 ] - [ INFO ] Activiti 5 compatibility handler implementation not found or error during instantiation : org.activiti.compatibility.DefaultActiviti5CompatibilityHandler. Activiti 5 backwards compatibility disabled.
+2020-09-30 14:06:48 [ main:3962 ] - [ INFO ] ProcessEngine default created
+2020-09-30 14:06:48 [ main:3976 ] - [ INFO ] initialised process engine default
+2020-09-30 14:58:04 [ main:0 ] - [ INFO ] Initializing process engine using configuration 'file:/E:/gitDemo/activiti01/target/classes/activiti.cfg.xml'
+2020-09-30 14:58:04 [ main:4 ] - [ INFO ] initializing process engine for resource file:/E:/gitDemo/activiti01/target/classes/activiti.cfg.xml
+2020-09-30 14:58:05 [ main:666 ] - [ INFO ] {dataSource-1} inited
+2020-09-30 14:58:07 [ main:2695 ] - [ INFO ] Activiti 5 compatibility handler implementation not found or error during instantiation : org.activiti.compatibility.DefaultActiviti5CompatibilityHandler. Activiti 5 backwards compatibility disabled.
+2020-09-30 14:58:07 [ main:2757 ] - [ INFO ] ProcessEngine default created
+2020-09-30 14:58:07 [ main:2765 ] - [ INFO ] initialised process engine default
+2020-09-30 14:58:18 [ main:0 ] - [ INFO ] Initializing process engine using configuration 'file:/E:/gitDemo/activiti01/target/classes/activiti.cfg.xml'
+2020-09-30 14:58:18 [ main:3 ] - [ INFO ] initializing process engine for resource file:/E:/gitDemo/activiti01/target/classes/activiti.cfg.xml
+2020-09-30 14:58:19 [ main:692 ] - [ INFO ] {dataSource-1} inited
+2020-09-30 14:58:21 [ main:2840 ] - [ INFO ] Activiti 5 compatibility handler implementation not found or error during instantiation : org.activiti.compatibility.DefaultActiviti5CompatibilityHandler. Activiti 5 backwards compatibility disabled.
+2020-09-30 14:58:21 [ main:2902 ] - [ INFO ] ProcessEngine default created
+2020-09-30 14:58:21 [ main:2912 ] - [ INFO ] initialised process engine default
